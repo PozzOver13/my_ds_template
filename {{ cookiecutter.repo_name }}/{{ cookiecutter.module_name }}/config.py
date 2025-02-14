@@ -1,0 +1,1 @@
+# here we save the project's paths
