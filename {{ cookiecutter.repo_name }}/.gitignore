@@ -80,7 +80,7 @@ instance/
 .scrapy
 
 # MkDocs documentation
-docs/site/
+reports/site/
 
 # PyBuilder
 .pybuilder/
