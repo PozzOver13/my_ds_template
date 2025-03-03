@@ -1,4 +1,4 @@
-# my_ds_template
+# My Data Science Projects Template ⛩️
 My Data Science Projects Template using Cookiecutter
 
 This whas just a first test to see how it works. I will try to make a more complex template in the future.
