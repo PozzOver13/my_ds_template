@@ -1,15 +1,8 @@
-# My Data Science Projects Template ⛩️
-My Data Science Projects Template using Cookiecutter
+# {{cookiecutter.project_name}} ⛩️
 
-This whas just a first test to see how it works. I will try to make a more complex template in the future.
+This repository aims at ...
 
-``` bash
-pipx install cookiecutter
-```
-
-``` bash
-cookiecutter https://github.com/PozzOver13/my_ds_template
-```
+Author: {{cookiecutter.author}}
 
 Repository:
 ```
