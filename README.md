@@ -1,7 +1,9 @@
-# My Data Science Projects Template ⛩️
+# {{cookiecutter.project_name}} from my personal DS template ⛩️
 My Data Science Projects Template using Cookiecutter
 
 This whas just a first test to see how it works. I will try to make a more complex template in the future.
+
+Author: {{cookiecutter.author}}
 
 ``` bash
 pipx install cookiecutter
